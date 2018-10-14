@@ -2,6 +2,9 @@
 -------------
 ##### Automatically code execution when you're dead by [@rufatmammadli](https://twitter.com/rufatmammadli)
 
+#### Install
+    npm i runitwhenimdead --save
+
 #### Why?
 I'm not depressed, just bored. Enjoy it. [🤘](https://www.youtube.com/watch?v=M97vR2V4vTs)
 
