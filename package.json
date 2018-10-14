@@ -1,6 +1,6 @@
 {
   "name": "runitwhenimdead",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "☠ Automatically code execution when you're dead",
   "main": "index.js",
   "scripts": {
