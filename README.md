@@ -1,7 +1,6 @@
 ☠ Run It When I'm Dead
 -------------
-##### Automatically code execution when you're dead
-###### by [@rufatmammadli](https://twitter.com/rufatmammadli)
+##### Automatically code execution when you're dead by [@rufatmammadli](https://twitter.com/rufatmammadli)
 
 #### Why?
 I'm not depressed, just bored. Enjoy it. 🤘
