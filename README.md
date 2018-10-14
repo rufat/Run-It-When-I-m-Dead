@@ -3,7 +3,7 @@
 ##### Automatically code execution when you're dead by [@rufatmammadli](https://twitter.com/rufatmammadli)
 
 #### Why?
-I'm not depressed, just bored. Enjoy it. 🤘
+I'm not depressed, just bored. Enjoy it. [🤘](https://www.youtube.com/watch?v=M97vR2V4vTs)
 
 #### How it works?
 As you know, Facebook adds 'Remembering' label on the dead people's profile (when their families or friends requests). Basically, the code is fetching the profile page in a specified interval and looking for the 'Remembering' tag. I'm using [puppeteer](https://github.com/GoogleChrome/puppeteer) library for fetching and DOM operations.
