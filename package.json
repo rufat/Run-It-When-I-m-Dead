@@ -1,0 +1,25 @@
+{
+  "name": "runitwhenimdead",
+  "version": "1.0.0",
+  "description": "☠ Automatically code execution when you're dead",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./demo/index",
+    "it": "echo \"is always worse than it seems.\" && exit 1"
+  },
+  "keywords": [
+    "dead",
+    "run",
+    "facebook",
+    "remembering",
+    "memorized",
+    "code",
+    "RIP"
+  ],
+  "author": "Rufat Mammadli (@rufatmammadli, @oop)",
+  "license": "MIT",
+  "dependencies": {
+    "botdelivejs": "^1.0.7",
+    "puppeteer": "^1.9.0"
+  }
+}
