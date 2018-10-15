@@ -1,7 +1,10 @@
 ☠ Run It When I'm Dead
 -------------
 ##### Automatically code execution when you're dead by [@rufatmammadli](https://twitter.com/rufatmammadli)
+
 ![](https://orig00.deviantart.net/1828/f/2017/004/b/3/b3e43e5773280307740e7f412aa86862-dau8w61.gif)
+<br>[(gif by @faedryn)](https://www.deviantart.com/faedryn/art/Skull-Boy-Gif-655465177)
+
 #### Install
     npm i runitwhenimdead --save
 
