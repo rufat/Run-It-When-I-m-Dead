@@ -12,7 +12,7 @@
 I don't know, just for fun. Enjoy it! [🤘](https://www.youtube.com/watch?v=M97vR2V4vTs)
 
 #### How it works?
-As you know, Facebook adds 'Remembering' label on the dead people's profile (when their families or friends requests). Basically, the code is fetching the profile page in a specified interval and looking for the 'Remembering' tag. Obviously, it won't work if Facebook changes the structure of DOM elements. Keep that in mind and contribute. I'm using [puppeteer](https://github.com/GoogleChrome/puppeteer) library for fetching and DOM operations.
+As you know, Facebook adds a 'Remembering' tag on the profiles of the users who have passed away (when their families or friends request so). Basically, the code is fetching the profile page in a specified interval and looking for the 'Remembering' tag. Obviously, it won't work if Facebook changes the structure of DOM elements. Keep that in mind and contribute. I'm using [puppeteer](https://github.com/GoogleChrome/puppeteer) library for fetching and DOM operations.
 
 #### Usage
 1. npm install - Install the all dependencies.
